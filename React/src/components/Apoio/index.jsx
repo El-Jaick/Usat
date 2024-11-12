@@ -13,9 +13,9 @@ const Apoio = () => {
                 <Item>
                     <h3>Realização e apoio</h3>
                     <ul>
-                        <img src={Fapesc} align="center" alt=""/>
-                        <img src={Casan} align="center" alt=""/>
-                        <img src={UFSC} align="center" alt=""/>
+                        <img src={Fapesc} alt=""/>
+                        <img src={Casan} alt=""/>
+                        <img src={UFSC} alt=""/>
                     </ul>
                 </Item>
             </Container>

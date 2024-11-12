@@ -8,8 +8,9 @@ export const Container = styled.div`
 `
 
 export const Item = styled.div`
+    text-align: center;
     img{
-        width: 280px;
+        width: 500px;
     }
     h3{
         margin-bottom: 10px;
