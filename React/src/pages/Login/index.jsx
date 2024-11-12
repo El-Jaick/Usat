@@ -20,7 +20,7 @@ const Login = () => {
           <Label>Senha</Label>
           <Input type="password" placeholder="Informe sua Senha" />
           <Button>Fazer Login</Button>
-          <Button><Link to="/cadastro"><span> Cadastrar-se </span></Link></Button>
+          <Link to="/cadastro"><Button><span> Cadastrar-se </span></Button></Link>
         </Form>
       </ContainerForm>
     </Container>

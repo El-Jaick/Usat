@@ -22,6 +22,13 @@ export const ContainerForm = styled.div`
   padding: 35px;
   width: 370px;
   background-color: var(--white);
+  h2{
+    font-size: 1.875rem;
+  }
+  p{
+    font-size:1.2rem;
+    margin-bottom: 15px;
+  }
 `;
 
 export const Form = styled.div`

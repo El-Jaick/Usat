@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const LogoContainer = styled.div`
-  margin-right: 40px; /* Espaço entre o logo e o formulário */
+  margin-right: 100px; /* Espaço entre o logo e o formulário */
   display: flex;
   justify-content: center;
   align-items: center;
